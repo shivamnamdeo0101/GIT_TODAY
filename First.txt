@@ -1,2 +1,6 @@
 
 THis is my first file on git local
+
+WD 					=> SA			 => zz
+			 						git restore --staged First.txt
+git restore  First.txt
