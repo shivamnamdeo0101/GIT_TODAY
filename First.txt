@@ -1,1 +1,2 @@
 THis is my first file on git local changes in staging area
+one commit more I have done
