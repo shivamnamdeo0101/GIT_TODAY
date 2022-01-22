@@ -1,1 +1,1 @@
-THis is my first file on git local
+THis is my first file on git local changes in staging area
